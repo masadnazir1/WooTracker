@@ -1,0 +1,64 @@
+.wrap{
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 5px 10px 1px #00000012;
+}
+
+
+
+.DevLogo{
+    width: 100px;
+}
+/* Style the entire form table */
+.form-table {
+    width: 100%;
+    background: #52baee;
+    border: 1px solid #ccd0d4;
+    border-radius: 6px;
+    padding: 20px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    flex-direction: column;
+    display: flex;
+}
+
+/* Style the left column (label) */
+.form-table th {
+    text-align: left;
+    font-weight: 600;
+    padding: 10px 15px;
+    vertical-align: top;
+    color: #ffffff;
+}
+
+/* Style the right column (input field container) */
+.form-table td.BoxInput {
+    padding: 10px 15px;
+}
+
+/* Style the label text inside the BoxInput */
+.BoxInput label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 8px;
+    color: #ffffff;
+}
+
+/* Style the input field */
+.BoxInput input[type="text"] {
+    width: 100%;
+    padding: 8px 10px;
+    font-size: 14px;
+    border: 1px solid #ccd0d4;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #fefefe;
+}
+
+/* Optional: add a focus style */
+.BoxInput input[type="text"]:focus {
+    border-color: #2271b1;
+    box-shadow: 0 0 0 1px #2271b1;
+    outline: none;
+    width: 100%;
+}
