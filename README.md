@@ -16,10 +16,12 @@ FB Pixel WooTracker is a lightweight WordPress plugin that allows WooCommerce st
 ## 🛠️ Installation
 
 1. **Upload the Plugin**
+
    - Download or clone this repository.
    - Upload the plugin folder to your `/wp-content/plugins/` directory, or use the **Upload Plugin** feature in WordPress Admin.
 
 2. **Activate the Plugin**
+
    - Go to **Plugins > Installed Plugins** in your WordPress dashboard.
    - Find **FB Pixel WooTracker** and click **Activate**.
 
@@ -68,11 +70,10 @@ You can compare this data with the **Facebook Ads Manager** > **Events** tab to 
 **Muhammad Asad Nazir**  
 Software Developer at [GalaxyDevPK](https://galaxydev.pk)
 
-GitHub: [github.com/galaxydevpk](https://github.com/galaxydevpk)
+GitHub: [github.com/galaxydevpk](https://github.com/masadnazir1)
 
 ---
 
 ## 📝 License
 
 This plugin is licensed under the GPLv2 or later.
-
